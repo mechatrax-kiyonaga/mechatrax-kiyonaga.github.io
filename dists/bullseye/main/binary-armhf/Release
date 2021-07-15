@@ -1,0 +1,5 @@
+Component: main
+Origin: kiyonaga
+Label: Raspbian-bullseye
+Architecture: armhf
+Description: test

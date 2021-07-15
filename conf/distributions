@@ -1,0 +1,7 @@
+Origin: kiyonaga
+Label: Raspbian-bullseye
+Codename: bullseye
+Architectures: armhf source
+Components: main contrib non-free
+Description: test
+SignWith: 4D2F1E75E12CAD5E6A1A8F63AF6546D602500924

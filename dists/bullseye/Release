@@ -1,64 +1,64 @@
-Origin: kiyonaga
-Label: Raspbian-bullseye
+Origin: MechaTracks Co., Ltd.
+Label: Mechatrax
 Codename: bullseye
-Date: Fri, 30 Jul 2021 03:05:22 UTC
+Date: Fri, 19 Nov 2021 04:45:47 UTC
 Architectures: armhf
 Components: main contrib non-free
-Description: test
+Description: Mechatrax archive for Raspbian Bullseye
 MD5Sum:
- cc16f254d767c3e5c75f98a8434065c6 8438 main/binary-armhf/Packages
- ad2b78cb61349a60996fef875d9fffed 2557 main/binary-armhf/Packages.gz
- 78c228583d7491f9b1650b6aa2842c0c 96 main/binary-armhf/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
- 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
- 2a03c317c554ffccb0a8c45d91898df9 97 main/source/Release
+ ccebd82d928c35d12ed38d5f4d0e1388 8438 main/binary-armhf/Packages
+ 3333671600297a09276c2207644ea34f 2557 main/binary-armhf/Packages.gz
+ 5a6a84619c7130bb2b5d199da489bef0 136 main/binary-armhf/Release
+ 1419a50fae0636afbe5625ce86fcb411 13599 main/source/Sources
+ fff972e0fb6af973a59b24c49cbb63ca 3579 main/source/Sources.gz
+ 512147a52c787eb7ea2264cadd9df66d 137 main/source/Release
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
- 265f49465e3576f05099aeaac32b0417 99 contrib/binary-armhf/Release
+ b3d70f82ca212d84c76ebc19698f82a6 139 contrib/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
- bc3817bbe1e5696f852e51ff4c4d4b87 100 contrib/source/Release
+ c7abe7fc30bff6196893c436ca515cb7 140 contrib/source/Release
  d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-armhf/Packages.gz
- 410be62aa4f7586ee94d396111b3a63d 100 non-free/binary-armhf/Release
+ 33530d528cc7f57fbb81ff6f225fb097 140 non-free/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 non-free/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
- 436b41c7d8333ded6e26f8b676b3738e 101 non-free/source/Release
+ 8c919d8952392a4a747c8b07775f3d56 141 non-free/source/Release
 SHA1:
- 0df5901df78df3d2c295f0623f720b8790cb0655 8438 main/binary-armhf/Packages
- a160c6f8549c3e7025b9a8660749fc67a5f0b28c 2557 main/binary-armhf/Packages.gz
- 795d1a335082044294da8993a1ad64dd33746b1a 96 main/binary-armhf/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
- 6bf2b3f51f13e2ac59d18a05772efef70c5ad800 97 main/source/Release
+ d2efeb2ee4276b8be419235d7d14b9a6a562f736 8438 main/binary-armhf/Packages
+ 0516c4156db7cb1d6b36beff8df6925667fe44c1 2557 main/binary-armhf/Packages.gz
+ 4291e5b74793739b24ecbe7dd7c636afac900dfe 136 main/binary-armhf/Release
+ 7062dca03f08929f35bb5a23853f24da0d1320b1 13599 main/source/Sources
+ 035ef509970bc7f2902314977b0f3132f934346b 3579 main/source/Sources.gz
+ 050fd001a388c99e5618e6ed09ff7cf92468fed1 137 main/source/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
- 7b9208f305be9dd29c0c7a15180cd0528f18fb6b 99 contrib/binary-armhf/Release
+ 0cad727b6252412c3e3bd966435f5e831abbb068 139 contrib/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
- 2dd0ce8c3d2ed83616db2c57871a74eea2a0cc4b 100 contrib/source/Release
+ 593238b5a989801dcbc7c2493f0844341d96e541 140 contrib/source/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-armhf/Packages.gz
- b3f3b508d2c460ca507d491d067ccdbfffa2d85b 100 non-free/binary-armhf/Release
+ a523dd582d719b009820d03ee82344bf44c68957 140 non-free/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
- c50c5caa190970446c7696163d85514017e7351f 101 non-free/source/Release
+ bb4d108cc9994dd74547c4258877c78e82ad21b5 141 non-free/source/Release
 SHA256:
- 72079baed8a218d506b085d87a438d27c2931db5e083209c9c86a692a53fedc6 8438 main/binary-armhf/Packages
- 1f8a34ae59ab5c1e7242ac66c0fd2ba2a81c624f829c0e1d468af15909d9eebc 2557 main/binary-armhf/Packages.gz
- e4e9d7e337fd5807b1ee6e23f06d4142ff4be6992039f2394a326666e08aefed 96 main/binary-armhf/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
- e183a386202d0f8c9dcadeae5d4f4861680550d59aa9364ecad3073fd0eb678a 97 main/source/Release
+ 6253754b321ac3b325e1964bf4ee3b8110eb375400236089abfddd4a4a607059 8438 main/binary-armhf/Packages
+ 00df3a85d0ffa80b536a11329a1fee2b84277ce310f91eee7497b3a7d87dca0e 2557 main/binary-armhf/Packages.gz
+ 7f1e64982963f6d564af47964625145af932b71409466c3ed7fbb0d4848f50f4 136 main/binary-armhf/Release
+ fe6e610716d7356179e2d4eed704d3e5624c829d741f9a05d4a30aaf5986263c 13599 main/source/Sources
+ 861c26ebab08c13861d223ab3475b7ff3dd5354a645c6f623f3ca12d83090ba1 3579 main/source/Sources.gz
+ 4d1fa6be1e57b37b4af9cb771423a23a85339e6c8f50d9572560df32a72dcd76 137 main/source/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
- cf87ba14736e4ea42a32668f3406d37c3bc6dd35206515d68cf48a347dd14b99 99 contrib/binary-armhf/Release
+ 6bec92d02112c3a514196d87c1fa9bbe16f67e6987a9480dbb98e5c23860594d 139 contrib/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
- b4fd723de76061dcb34ff1fff87dcc13fd43a57496b5b8abf93744caffe0e653 100 contrib/source/Release
+ 8e0f178caa274777dede76ab60ba4b4062d386c005747974ed3a7dd1d9e93bbf 140 contrib/source/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-armhf/Packages.gz
- 251c539a3115afa818a81b69eacfbbd719e29bd4bb15df4358f3b7acc4d9cb9c 100 non-free/binary-armhf/Release
+ f2bdb3be793f309c72fb08c83f8e2cda17362b9cc3edfd46d402a2479c3ff438 140 non-free/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/source/Sources.gz
- 2538595867a1e519e220b82287cd9f092d24e20499b91bff3c5d77aa84b08356 101 non-free/source/Release
+ 4ea638ba83a3e65872a95d4a6640d4362b342ae29e599496a1381873d65328c4 141 non-free/source/Release

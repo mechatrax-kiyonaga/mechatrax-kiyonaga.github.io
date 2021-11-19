@@ -8,28 +8,28 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: net
 Filename: pool/main/4/4gpi-net-mods/4gpi-net-mods_1.3.1_all.deb
-Size: 2828
-SHA256: cfd2dd2b9107bc3504f52de057ea2cfa0a0342cdabf0524c95708b2d770d7c33
-SHA1: dead82ed7b9228e0a90346f331f9f36bf14a52c3
-MD5sum: 09e459152062095536a24a3b34fc85f1
+Size: 2852
+SHA256: 220a15a61402b198a33f6c76a56e90edeab645a8a255c67d0fcdb58b3ed2c877
+SHA1: 92aae9c69c380287e558ea7df2529fefd7b1d562
+MD5sum: 4b165c36cf7e876155fed6ceb6ddd2fc
 Description: Network configuration for 4GPi
  This package contains network configuration files for 4GPi
 
 Package: 4gpi-networkmanager
-Version: 2.5.1
+Version: 3.0.1
 Architecture: all
 Maintainer: Yuta Kiyonaga <kiyonaga@mechatrax.com>
-Installed-Size: 38
+Installed-Size: 39
 Depends: python3, python3-gi, python3-dbus, network-manager, modemmanager, 4gpi-utils
 Conflicts: 4gpi-networkmanager
 Homepage: https://mechatrax.com/
 Priority: optional
 Section: net
-Filename: pool/main/4/4gpi-networkmanager/4gpi-networkmanager_2.5.1_all.deb
-Size: 6880
-SHA256: 537f6b7d4b763cc9d4308f754087dc3eb6da37e70905a0827b6a1394f3740726
-SHA1: 0eef1559266346dc58782702db6b43a63c670d2f
-MD5sum: 03b74456fb1ecb835e91a97c71656216
+Filename: pool/main/4/4gpi-networkmanager/4gpi-networkmanager_3.0.1_all.deb
+Size: 7216
+SHA256: 6f82734248f54b3d87aafd991d6afcb73c8a149a7af8e69e22e0fe19f4e812fc
+SHA1: 7bfd1c9764a6c9de57ee4cb816731fe6d39769dc
+MD5sum: 469a2375d69756a58b6f5714ed6004ed
 Description: NetworkManager settings and helper tools for 4GPi
  This package contains udev rules and helper tools for using 4GPi with
  NetworkManager.
@@ -45,10 +45,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: net
 Filename: pool/main/4/4gpi-utils/4gpi-utils_3.1.1_all.deb
-Size: 6656
-SHA256: da3c462cae64b2ae41a5d4b533474b696e2a8c5ee9a81d756d126e432b31896f
-SHA1: 0f77b0878891255c35d93f7432e6ed9fc2bb69c9
-MD5sum: f2ccd623197105b7b14028e29c924f20
+Size: 6660
+SHA256: 8d3277752df6df38660cb374ebd22bdb2e5a92044f91548589f29b543f53a97c
+SHA1: e7ac7bd78f4148bae852e95bbb2a6de3d56aad1b
+MD5sum: f7f3f63ef50c6c6e28eda377a1ee591a
 Description: Utilities for 4GPi family
  This package contains command line utilities to control 4GPi family.
 
@@ -62,10 +62,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: kernel
 Filename: pool/main/a/adpi-firmware/adpi-firmware_1.2.2_armhf.deb
-Size: 3972
-SHA256: 0b35057f59c6b47e8689e136667a485144d2191044614cc52d0c8ad22423b9d5
-SHA1: c8b536ace037c605bb2af3fb23b5c49cdfbdd81f
-MD5sum: 554666f6eaf3676483bd2c7623ebca6b
+Size: 3976
+SHA256: 199d93aca03883d35b8a1c3aaac9ab73c93da700721f71b9826451c6a1e2aa31
+SHA1: 2f5e7796f093b321591ba04993ff9a548ad64ca9
+MD5sum: b347b20336bb8e5e7a2e66c87391f676
 Description: Device tree overlay binary for ADPi
  This package contains the device tree overlay binary for ADPi.
 
@@ -79,10 +79,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: misc
 Filename: pool/main/a/adpi-utils/adpi-utils_2.0.2_all.deb
-Size: 4728
-SHA256: f897540146430ff65b0fa36fc2b0427d456bc68677ea86a1b3a51667869c9334
-SHA1: c0780fe9695974532aa7b3a919ac157050f9ad18
-MD5sum: 8e733d139e201d9deab3fb92e19939d4
+Size: 4732
+SHA256: 7a0463b1d87ed09e865e1c5918c75122e019fd415915d735c0e07a252eddbceb
+SHA1: abe3a3f1e7b7803e9f7d3a8799408f0faff6be6d
+MD5sum: 875c39bb78727c69bcff7bee978eb362
 Description: Utilities for ADPi
  This package contains command utilities to control ADPi.
 
@@ -100,9 +100,9 @@ Priority: optional
 Section: misc
 Filename: pool/main/a/adpi-utils-backend-iio/adpi-utils-backend-iio_1.0.2_all.deb
 Size: 4720
-SHA256: 6ed201d05a8690ef52f9e8b277bafc1aa5ce36161eb358715d666d63e4c320f7
-SHA1: 4572f04e0de3146e2827a8b11ed14aecd41cc89c
-MD5sum: 7c1f0851b54f6aa4e910e89ecbca45e8
+SHA256: eefae7ccdc5e7c0629921eceb40a8e76df9db31148b8f8234506a7d56b551968
+SHA1: 94814a18da413943152ea92d652985667285aa0c
+MD5sum: d8d1856071bbbb7075d300204942b199
 Description: Backend of adpi-utils to control ADPi with IIO
  This package contains backend files of adpi-utils to control ADPi with IIO.
 
@@ -119,10 +119,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: misc
 Filename: pool/main/a/adpi-utils-backend-spidev/adpi-utils-backend-spidev_1.0.2_all.deb
-Size: 5052
-SHA256: 15c473ee088b4afe8f004566e9b0b834647951326a02edf1b605d38a826afd9c
-SHA1: 68ecb3bd981f5c798f042c8645cd29937f9b41e8
-MD5sum: 87935e3aa8a5e64a06a106f3696cab63
+Size: 5060
+SHA256: 129e6e79c12af724a18025c0b725a8ca12dd28e04af6f7d3f853e8afcda3bc97
+SHA1: 2a74cd8cac781ab22344d1b9b5016ef80ef43fdb
+MD5sum: 1d8625832db2bcc830701ab783d5dfff
 Description: Backend of adpi-utils to control ADPi with SPI
  This package contains backend files of adpi-utils to control ADPi with SPI.
 
@@ -136,10 +136,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: misc
 Filename: pool/main/m/mechatrax-archive-keyring/mechatrax-archive-keyring_2016.12.19.3_all.deb
-Size: 5136
-SHA256: d7aa68b15ae62e6aaf48064ddc8732bfb8dcae10e8a077686a7803f6cb952120
-SHA1: 96dbf072b36bcf6429721aaee8f2bf5a882ab3e4
-MD5sum: 2ec515d05497b66a27c398f639ab3a19
+Size: 5152
+SHA256: de828a5a50bd53369830d603f18f777e5fcbcd0830b1f714982a0da53ebbc6e6
+SHA1: 5d5aac91ba6143232618d43a20d555fefaa41b31
+MD5sum: 7a481ff4995f673b6f7676f66d1d92e5
 Description: GnuPG archive keys of the mechatrax archive
  The mechatrax archive digitally signs its Release files.
  This package contains the archive keys used for that.
@@ -155,10 +155,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: python
 Filename: pool/main/p/python-adpi/python3-adpi_1.0.2_all.deb
-Size: 5140
-SHA256: c62408ea7d6b05abe6125b31fec2f4b09070f576e169de373a5435febf60abdc
-SHA1: 02123e434bd397af2e7a0a258b0a926d5c112ea0
-MD5sum: 8fb1e6ed373a920839bbdcf0b8154705
+Size: 5144
+SHA256: 17bfe9739c4346e8f056288a38a73c4ae137175054912605b5140fc598530153
+SHA1: b9263e9f786c82c134472f7487d2d4c249de4c01
+MD5sum: 3816b8830489cf5635cc09c73bc2605c
 Description: Python 3 module for ADPi family.
  This package contains python module to control ADPi family.
  .
@@ -175,10 +175,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: python
 Filename: pool/main/p/python-sleepi/python3-sleepi_1.1.1_all.deb
-Size: 4632
-SHA256: b30ae15897797b11564592cad812803c730abc426a29ee61f4aab2aecec3310b
-SHA1: 2f7131b8f12cbe0b887514089625f33e92c5e434
-MD5sum: 7ea890fa1fd498923ae1640f864f6dff
+Size: 4628
+SHA256: 7f40efdd189cfc467f83555ecd14d08fcfb2939af53dc87b9a9e57a28a515a86
+SHA1: fbf0d74565f8eb6f6e1b0f457769e8afb06b2216
+MD5sum: 9dcc0baaef7f195de27c68a78a6761c9
 Description: Python 3 module for slee-Pi family.
  This package contains python module to control slee-Pi family.
  .
@@ -195,10 +195,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: kernel
 Filename: pool/main/s/sleepi3-firmware/sleepi3-firmware_1.0.1_armhf.deb
-Size: 3520
-SHA256: 4f57f89366821a74321152c2b64bd1b9ef3c67c0caecbfb1f4114062f61d5a61
-SHA1: 67ec204c825033fe6ff7d3114dde9e2b35b8f767
-MD5sum: 5e13a13e6417cd2bd0f0aaffb0dd19a3
+Size: 3524
+SHA256: 4c9a2f03cc6b578d263b80bbe2eedea010d51b605971f8c5422810557e369d07
+SHA1: 8bf4d5a1e598ed42a24930d38f6cbb551ae7aeeb
+MD5sum: cccd22b2d98d08fe3c3fcf5b09ab4b49
 Description: Device tree overlay binary for slee-Pi 3
  This package contains the device tree overlay binary for slee-Pi 3.
 
@@ -213,9 +213,9 @@ Priority: optional
 Section: misc
 Filename: pool/main/s/sleepi3-monitor/sleepi3-monitor_1.4.0_all.deb
 Size: 5976
-SHA256: d7f2ce0acede29de11e90adf422fb0399091b99bcbc1a7c882528bfb8d803e57
-SHA1: 58cca6ec777fc528c09fa6e5cb06e93db3720dd3
-MD5sum: 50e7c0c6c7ea9a230bce13ede28df382
+SHA256: 13bfd3c595d1e25f0b017e5c14cfada5dcf6cce1d52f22c0c5d440b882208f1e
+SHA1: a00c6d616469deaa406418bdbac8ac20e9f1bb11
+MD5sum: 7762c10d1807c1d021068e24214ce3f9
 Description: Monitoring daemon for slee-Pi 3
  This package contains the daemon to monitor slee-Pi 3.
 
@@ -230,10 +230,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: admin
 Filename: pool/main/s/sleepi3-utils/sleepi3-utils_1.0.3_all.deb
-Size: 8160
-SHA256: 981ca55edf06803c857815b6d1f14a069fc5797e5a1ad369d115ecd3871a8990
-SHA1: 681c740138e8e6af3165fccd43811bdbad3ad2e4
-MD5sum: 1ccb2e340be3149d528d1359cc382b65
+Size: 8168
+SHA256: 331750b0a71af89281dcc7a11bc272b0bed7d5fc8e2f7d2734710117f21324b9
+SHA1: 2626022473d2e535e7dc1aa5b6c18e63036f64d0
+MD5sum: e3ac4c63286b31433b7c3b1eb6c95e7d
 Description: Utilities for slee-Pi 3
  This package contains command utilities to control slee-Pi 3.
 

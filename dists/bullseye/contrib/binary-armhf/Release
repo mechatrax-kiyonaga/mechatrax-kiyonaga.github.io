@@ -1,5 +1,5 @@
 Component: contrib
-Origin: kiyonaga
-Label: Raspbian-bullseye
+Origin: MechaTracks Co., Ltd.
+Label: Mechatrax
 Architecture: armhf
-Description: test
+Description: Mechatrax archive for Raspbian Bullseye

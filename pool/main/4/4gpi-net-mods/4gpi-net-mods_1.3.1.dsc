@@ -15,20 +15,20 @@ Build-Depends: debhelper-compat (= 12), bash-completion
 Package-List:
  4gpi-net-mods deb net optional arch=all
 Checksums-Sha1:
- 8beefaee8bd108d4d1ace80bfc222c1873dcd3a8 2568 4gpi-net-mods_1.3.1.tar.xz
+ 2f2d0245950b143405d1af40bdd1b17b77f8cd33 2572 4gpi-net-mods_1.3.1.tar.xz
 Checksums-Sha256:
- 262551e0d4d01a131b2cf409428e72b0dd457b86d9b312d78ba562198f5d4844 2568 4gpi-net-mods_1.3.1.tar.xz
+ beaba253720d24cf7f57c111a6f0dba401ad8cf08962ec745fabefa4da068357 2572 4gpi-net-mods_1.3.1.tar.xz
 Files:
- fa57bd6a7c1b271ebaed7f51dc5a237a 2568 4gpi-net-mods_1.3.1.tar.xz
+ bc1456bedf969d8df14cd98b0b2d7c00 2572 4gpi-net-mods_1.3.1.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGXFz4XHGtpeW9uYWdh
-QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSSWEAgAqsGV7Ks2kqEyC0gBewgzh8ZO
-0y0T/lpfXfzreytJS4hFTY6KXnm/zfjnZK+9uzTbz0mXGmwAZBzr8lmrFoIF+LtS
-SwPPWUjsKvx9wnNHJoS8ti9grk8GDoj1WAwFeey17H0OH3/YOVj/bNaFlt4CMp+s
-5znzuB6ifb/fO3su+fBX4X16LbskYBdtw5fCO1C/VWkqPXkYEsL2YKmZ8C0fXW9m
-9SUSPpLHmCOUwYpkeaq5Fric/4EdwUgvGRNIIBTVCrDIPtyilTE78R4WWpn1gl74
-xXKXOIGmnk2lF9fIRaS1lIdDf28I/PdgYxr8MpOXseTlpdU7DLESc4zJr+mEKA==
-=W5Ws
+iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGptiAXHGtpeW9uYWdh
+QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSRBVQf/ReGu7j6mnvXcyV+aIJPi289j
+5bN4DAUX2vAQk8A3yMZHT5pgGqa312s0i3QFlBJ24qTxrg6yE2UtkBUyLMnJbIku
+A8wuD7I9XtPg40QMEQ4yhUgOjVZj/Le16k5O/V9s9qIFK8QXJZj4dOnoKh3FL1O/
+GLR+VZM2g/T8K9SVj5CZXdx6o7cc0AM0NUrzaEOqlPv8mUkx2wjAOGRa0SwBVcTi
+Pz7fqAmcxxBB1a183HjYWYzd4u+P3RtyHLc0wg4jmomC4QVW7z2fIcH/ZghcpJTd
+fUVhif/lr1L0EG+ypDDqKCWyXPHJ8NgViMOCmzUqubIdAubqraMIvqEHtWpj5w==
+=qjE9
 -----END PGP SIGNATURE-----

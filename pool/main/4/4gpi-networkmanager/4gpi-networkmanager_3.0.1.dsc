@@ -15,20 +15,20 @@ Build-Depends: debhelper-compat (= 12), bash-completion
 Package-List:
  4gpi-networkmanager deb net optional arch=all
 Checksums-Sha1:
- 8b431ad498ebf8bd799a135e56e1dacba815f935 7024 4gpi-networkmanager_3.0.1.tar.xz
+ f43eee9d306de0bd63fafe26f70b0f6d902480a9 7004 4gpi-networkmanager_3.0.1.tar.xz
 Checksums-Sha256:
- 1c94317e170339fec2ef63929d3d48975112b106aaec57b8c4775cff0fa90a95 7024 4gpi-networkmanager_3.0.1.tar.xz
+ 55854fe5710416f0be3185a0d17d43ba010a9de0cd0a5f46f118064420e66231 7004 4gpi-networkmanager_3.0.1.tar.xz
 Files:
- b06ceb4324bebe27e9622642c06b90a4 7024 4gpi-networkmanager_3.0.1.tar.xz
+ c1e4dc6922e7911d743ca06df6d8aac8 7004 4gpi-networkmanager_3.0.1.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGXHW0XHGtpeW9uYWdh
-QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSSoSAf/QS6ASijko1zlycUYP/+RIoxd
-6DVo3F4IqQAttrs2MJ3F5fSyhAmhj+8NLkl9OVYYHiQ2Dtl+LEq7jMPZUNkRUo1c
-gr7KOAxpgE5PeM9ngZH7LlRXvrFnHVvV+aDWLnji0MN5KBcAdkgb2spw1dRSA9z8
-9PD+wm1Jt6qZepTm1fpsuZYtBL48L51TyELRB16B8Od7Q7hVmuQF7r68boMwLUic
-jL4t7Qe6GvEDkWimhblOW0pEwXXloRkyLBEjozR0MqEPR3hosiJG+5jStst48joS
-uSwuDnjFGH5y08xn+HfG+ZmO6ObuOT8c13xnKur0jVCq0S7dt4ITtgAuHeXu4g==
-=8lH1
+iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGptm0XHGtpeW9uYWdh
+QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSQ4Mwf/Yg/4c0fLBd8e/RS2D78Qf3Vz
+7WBxKNhm+54Iq+lCWojvqYHkXuxCC2PjsPptNr0t+SIc/jC112JkqJF05eWrV1Ea
+UP5zGCn98o3pr+TqGKGdgMb76oKmw1E8xyQTnMM6D0vxII/u+5qxSEz9XZ1FydTc
+8qHyZkGdD1tf9V8TuvJiJw3L1zL2YkzU8DZGCsa1MuJ5ct+fcSoow4jeVkD/z5MC
+H9b5Lyn6jp6zfZwB3fTfrn4iCVU63UfUUPNV8jMUEwfuqX0p9lVuwWC/ZVUVenyy
+8D83RCd0HuTN8rwoA8T9oCi+V5DTKhBYZLao5e4xwdMr5i7gt2qIlauVjQ225w==
+=baYF
 -----END PGP SIGNATURE-----

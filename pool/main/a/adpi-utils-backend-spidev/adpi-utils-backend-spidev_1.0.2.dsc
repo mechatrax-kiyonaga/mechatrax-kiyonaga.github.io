@@ -15,20 +15,20 @@ Build-Depends: debhelper-compat (= 12)
 Package-List:
  adpi-utils-backend-spidev deb misc optional arch=all
 Checksums-Sha1:
- c6ec0a2c500f6d3742ed608632d5a5d9beef7aef 4236 adpi-utils-backend-spidev_1.0.2.tar.xz
+ 6eb992635c2a89a6696951bf67fb0f0d6ab3274f 4224 adpi-utils-backend-spidev_1.0.2.tar.xz
 Checksums-Sha256:
- 2914920dc604dc0b1b9144773ee8ec2c955012e6c46346feecf40c56bfd86516 4236 adpi-utils-backend-spidev_1.0.2.tar.xz
+ 3e6ab8d7a975b5d3151fb5c98a9f0ce31a0ac4289ea31d1c811cfb57b275fe36 4224 adpi-utils-backend-spidev_1.0.2.tar.xz
 Files:
- 72bb0910689bb5ef5208c8c84eabb3fb 4236 adpi-utils-backend-spidev_1.0.2.tar.xz
+ 092186d417ea41dc5180c1e567a544c9 4224 adpi-utils-backend-spidev_1.0.2.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmEDmbsXHGtpeW9uYWdh
-QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSQXHwgAr1BC00sdhg/PDHF9qTJBzR93
-KH3LXHsAaU7zEToE0RAOUcO72DyrTlbdetfPWGTYmOBGPOhlTsWlsBbKGt1RtXcD
-EECwGzpGZHgAWhDv5KqYSYEy37PvK7cI4DCuF69xzrGWzxHnsuKctnPxRvI/SIzM
-cgdMbAvGWylxT0EhkUIxX/7y3l/6R2dk9+swi+gmY1dD2pMzGrk6msJS8U+rsSIF
-Gu6y/oSW20gTOaPt/gkykL3jtH20MMkIcaBt09wdLCyFC/GUP14I7FsCg15NoJm0
-3FEgzxP/ORLNMU6yaJqngxvaHtGgj+ZkfWkYHaUZa0NEKxr7HlIJN1s8gEUKLQ==
-=V+qr
+iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGpsz4XHGtpeW9uYWdh
+QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSS4VggApADkPwmnvEU1QXKLp8iCakkq
+Tp2+Mfr2AinM+uYcRXoq2Y+2DhLgcsZGU7vpAukYt5cyEekO7chh8da78E2YPvD3
+0rUwK9CWglHjuPk16Q6PSG8ttzNH/kdg0mYnbN7VUnnG7tNp61MhJzXnQzCnEro4
+b/+6F0iEVMxLp5WQivxTyEKjlB53eDr+2H4n/u4yjOWg2VvlVToiTg1s//RaypCM
+dwo5wqjtlSoWIAVSB1aDvrxyo72ixRAXtVonM6yBZkwn1+O1HkGQQCC9agJzOMCG
+Lw3QbAxiAzAILXB3ocEHw8qeEAHtcq31pEukAGSaMSc95VGp07yLK2Oh37zOZA==
+=wAWd
 -----END PGP SIGNATURE-----

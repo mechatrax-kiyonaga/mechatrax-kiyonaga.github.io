@@ -15,20 +15,20 @@ Build-Depends: debhelper-compat (= 12), device-tree-compiler
 Package-List:
  adpi-firmware deb kernel optional arch=any
 Checksums-Sha1:
- a75bd9ae647ddc27fe310ee381f8a7bebbf3c0c7 3964 adpi-firmware_1.2.2.tar.xz
+ 34df54e8ba5262121de19047e1e889ec88a913ce 3948 adpi-firmware_1.2.2.tar.xz
 Checksums-Sha256:
- 8c80899e00c4fe523596e71c1b62e9759eba1d81458f43b3569f74835e7a4abc 3964 adpi-firmware_1.2.2.tar.xz
+ ec0d1b2334d4eaf7c3ba13bd0fb347ebf59671a01cc2fe8533c151f6056a10ed 3948 adpi-firmware_1.2.2.tar.xz
 Files:
- a89ce9335b89f5b5749910403596e470 3964 adpi-firmware_1.2.2.tar.xz
+ accbf8f36bf851587d3607620c506e3d 3948 adpi-firmware_1.2.2.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmEDmYAXHGtpeW9uYWdh
-QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSQd5gf+MswOIDUISMm24k7oAWCMnUxX
-6wFNWxPSSje/sfL3ejDNNuo4w20Jafr+ZlFxIAlQlXUfKDOhucjn1F1IHfhZ42nK
-4AKO8roKAFl7R1oMurVpEjy3ydorMk1I5gArk5OIDnskSrf58sEug+i/0Tw70L79
-OkT9j9T4f7mGxEyu17r/4Q+w5gxRIguEVNGXSoqsqo+2ZH5pSmNF9bBba0/DN8Ov
-rnh/lMd31zli21SZ461Oc/Qk5fEKKQF5wJx30A7LxZ2bEIxoExy9Oglqhi/WRcQs
-REdE29cqOmKse7CbwM641RGxCvSm0tfbyeqspieRzMh0zpOmqrd86zxXIpgnJg==
-=H1F+
+iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGpsIQXHGtpeW9uYWdh
+QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSSNFggAuBewmb9nNrMnEfYpWAfw8M26
+ZgR/ReucLrc1AKrzWud9y4WBuU5fXnj7vLsFzLaQCB/RBYzPxuMW8jxhupe29yyc
+09KY1EDvoYENSL1Sz1qMB8ZY8pr3njpqMbvdRu331Ez65Tb0nktoblRJ+Z6OBCln
+qxzMnD2TxZ0Lp176eomIZTLoJ0nxUxVSCwct21j5lrZm4+4BXh4eCMAvXAwb6j1F
+TdS7+qbABAiHWmma+uMnzUHhchEu1pJHqgR7jE8cMevZS85ltE6Es/NIuC8ZMZOS
+4olIzNy0YUvaoay4g0p6sjgoqdHao6XTAWykJe5XPzE1lpVT2DDyFckajWQ5XA==
+=p3Si
 -----END PGP SIGNATURE-----

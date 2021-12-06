@@ -15,20 +15,20 @@ Build-Depends: debhelper-compat (= 12)
 Package-List:
  adpi-utils-backend-iio deb misc optional arch=all
 Checksums-Sha1:
- 9693e6afed5ee86fa6c4724a2a25ea6b3bca3ff3 4356 adpi-utils-backend-iio_1.0.2.tar.xz
+ 38081dd57f59055633e611f8c9212348e257de7a 4340 adpi-utils-backend-iio_1.0.2.tar.xz
 Checksums-Sha256:
- ad3c676ed297698c80c8760a4f8710b3d965f9536c7e5698f8e13be0b31a1dac 4356 adpi-utils-backend-iio_1.0.2.tar.xz
+ 739df10259d69e0fa0cbb0ddc688512297a0173b4fcabcd87d521454c3c2ee15 4340 adpi-utils-backend-iio_1.0.2.tar.xz
 Files:
- 4759534ebfbef0391e8d30f2cc0e155b 4356 adpi-utils-backend-iio_1.0.2.tar.xz
+ c89c0de1d96e32a0573134da529310b8 4340 adpi-utils-backend-iio_1.0.2.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmEDmZ8XHGtpeW9uYWdh
-QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSQdhgf+Ly/B7+7HbBocixn10Rcb048f
-dLbvN8eMMBr2/9TM9OGzF50B3zT3ORJo7KIwWKd45kj9D0wbWfulLjKOqABsKXga
-qnD0YCZVOFtO7r2yX1VtTO3ZZMzXr64iI0S3w14trUp4ZDsIWNKtukeumu5HM2j/
-UFIGqQP5gXEuInTgJ+bdAfq6tFKRKw9wbHzyX+ERZDBe4mdKhwQvXAujzJAO99/d
-tERaSwAbTOPwNShESyVXvUdq1xifGY1wbjoajlXaHOa2Hr07nLgfcZiFHKHE1z/M
-QUg9xd6fwmlQ2rqsXMMf/kM+7IJ5YCB7t+1Cok3P5pmgzwF+BqyL9s8P59ZC4w==
-=8aDR
+iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGpsv8XHGtpeW9uYWdh
+QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCST55Qf+MOqQbZCMswWsShpLKt51KROj
+HqtXAMtOLyQL1OSGeIPz1WHs+xq5OmC7BkdoXBE+BJ+qqv4m5bL0HgPDzojfF2sG
+m1WKWIMElVu3qgg1ArhUsQuFiwHdOuyT9ZRkfLgWykd+5J8tek2P6Isy+Kvwey+4
+yxsitsfKG7VkZmQ+kfhBAc7cAYFigTadjHwjX/dmfGyWq2+4ACtEPY23F8l4jzFt
+f3pRh8sUjRAbIWlC/j9OcGcSIvsgP3uStSEucJMaoQ2lrxhgSddxhhljgXbfr4IL
+L1wGn/mZakQP2tSrnnNEUhSPtAGSP/Tjygqb8FZMp/KvFhJ4IMb4GLMN4gRpbA==
+=Sk69
 -----END PGP SIGNATURE-----

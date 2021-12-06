@@ -15,20 +15,20 @@ Build-Depends: python3 (>= 3.7), python3-smbus, python3-setuptools, dh-python, d
 Package-List:
  python3-sleepi deb python optional arch=all
 Checksums-Sha1:
- 4a2592e000b23321980d7cfa1dead23917b83118 3996 python-sleepi_1.1.1.tar.xz
+ a48edd4306583370b10d1827c90e182d43f59713 3620 python-sleepi_1.1.1.tar.xz
 Checksums-Sha256:
- f9f9eb8b4683afc13acfc015e6ede65e2cf589223c1af64a50d508a7730afb49 3996 python-sleepi_1.1.1.tar.xz
+ d9d82c9e902d96483ef27f1803cc439f926c3f9c9135b7c08b9ddf859e4b061d 3620 python-sleepi_1.1.1.tar.xz
 Files:
- e03b78a53925941cb8ab988f29cc9c82 3996 python-sleepi_1.1.1.tar.xz
+ 564ef53c21201f4d1967a47b0bb7499d 3620 python-sleepi_1.1.1.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmETWusXHGtpeW9uYWdh
-QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSQgpAgAsd5ZCKte5JfAZYeDiEl42epY
-hIezRYSbMjYxrcz/Y9ByXhWA4WzYcT4hBeV0h93VEH0KbT0IvQs8kMpuSuxLppiv
-y/kmKdSJNRBUT49ZsSeyC1woS0TXMibh9ofecSuAx5T+MA0QVJ6p534ztBR53x8P
-q8y3unEQL4QTQIqPQqvR0BdYfisqtXkXJtdC+XMT282Q+KTnZPyhy1l5xDLbXj6r
-Z5BLKIqN6QEWC4/doB0TmLyqCHJU7EpHryqQitqTHxu4I8Xxh5OLCidEpPMaCtxe
-GjJOkaKUhxf+s2XPFlqdeqd6aa3EwLCoeDKXQ10CwFPn43Q3Yke0kR6yvXnO/Q==
-=/+dp
+iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGpsB8XHGtpeW9uYWdh
+QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSSjoggAuaQiEhDHcLylsjBAFxOREF+t
+T7HxCfF8kRAOt4r/L2z7AwwgWMJk9XKu3L8N8Fzk5gRnP9YpTzCIqTD7kay5zb2D
+NTxXQ1rGNDlzSdx7PP0MzoqP8k0LmFPABNGFHeq93qz68Yh8+8PJvD5+g0WK2HQ6
+dMFHPtMLKpkbMq+SmRTRPLMLD2yc17YztijOk20kFbn8TibpBZRRrNUK+zRXZ7K0
+tRl13hcuKpaa9HSLrSn5n8yggWF9127QklCdj3tcUyF11FHrdMuhTrqHEv+UPkMp
+senoIPW4TyjovY8KaKj1tPJ4tCA5x/E5qzlW6gX9+KjKg2HW3zVWmO2WRkQoXA==
+=B3MC
 -----END PGP SIGNATURE-----

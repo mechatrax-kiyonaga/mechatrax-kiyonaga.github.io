@@ -13,20 +13,20 @@ Build-Depends: debhelper-compat (= 12)
 Package-List:
  mechatrax-archive-keyring deb misc optional arch=all
 Checksums-Sha1:
- 629b4c06582c88babe70ffe88b68435757312540 4660 mechatrax-archive-keyring_2016.12.19.3.tar.xz
+ 63484261fc6acd2428f6ebc39b47401c442c90e6 4644 mechatrax-archive-keyring_2016.12.19.3.tar.xz
 Checksums-Sha256:
- d722ec8a0ecbb274547b3b4160762f02f235ef7d685e2deba2a4738cb3fc2915 4660 mechatrax-archive-keyring_2016.12.19.3.tar.xz
+ 9fa7292fd06d909a6a1479e05a3619a625c5fc443d19e220782f5d1feb5e282e 4644 mechatrax-archive-keyring_2016.12.19.3.tar.xz
 Files:
- e4f00c06bc9e12f004b4cba570b8008a 4660 mechatrax-archive-keyring_2016.12.19.3.tar.xz
+ cde43de8db0216999974ef72ea3d3a78 4644 mechatrax-archive-keyring_2016.12.19.3.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmEDmfwXHGtpeW9uYWdh
-QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSTDbQf9EmH+2/Fxot45VTsv/TS52T8S
-kDYLuw+Tni4wf7ae1Qj2Bip8dZhJpr4KNgIvC6mTPgyEwGhaJwkx1LoZg6aYzb+S
-Z9ZuYeLlmZxkaM/KdkiE0xd1UQY45V7kS/R64FtT0wqFUq/sBbSx8qzOWQG8YmYr
-K7RiS12F7PS0T3jkvwGl7e/9Fj13WZ9Gya8c2+Vu9fY3w+LbIeGD0WHNXwNZ1lRX
-Ibeo59O7jWZf5HmW1xXgFEEMdnkN851SMgZnNDPQoUtU+86k9i5yCuvLDbWDiueD
-t7UwugtWp1wQqHyH9bj+gbh3hpxro4ixIDUvfrha+vMcFIYiokduYCcn9kfZEg==
-=Norj
+iQFLBAEBCgA1FiEETS8edeEsrV5qGo9jr2VG1gJQCSQFAmGptYoXHGtpeW9uYWdh
+QG1lY2hhdHJheC5jb20ACgkQr2VG1gJQCSS0wwf/U4OJz7xKF98pFTlWJLWNd0Mc
+ukxEV7M31CTCtcf8gBdum4ScSHPI/6QmyO6lNWt/89jrj2sOvoYRQnJFCV/XETSt
+U7+uqfAXv51M1UPhZ/W0EygPyygur81MeADnp2FlWCvyK6GKmFtt8rFFuf46/v/x
+udqfcVpKJRVhFqm8taia0MWZ5bVD6P2XeFHR/SbttRRrFgvVOblXARqDyXoB4e/c
+iJBvDJWzocyHSALAZvq97uTAdEKi+06nZQQNUQ5tNs8CkUdW7Thqmf/qz8eUR7Ft
+wAC9K2EC7iP88e9y7YEBreFbaT6CKuyG79N2+sy3IS54ySHUHe+6+hLxB03Ohg==
+=gzYM
 -----END PGP SIGNATURE-----

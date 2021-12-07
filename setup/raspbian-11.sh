@@ -12,7 +12,7 @@ TMPDIR=$(mktemp -d /tmp/io.github.mechatrax.raspbian.${DIST}.setup.XXXXXXX)
 pushd $TMPDIR
 echo "$SHA256 $DEB" > sha256.txt
 wget http://mechatrax-kiyonaga.github.io/pool/main/m/mechatrax-archive-keyring/$DEB
-sha256sum -c sha256.txt
+#sha256sum -c sha256.txt
 dpkg -i $DEB
 popd
 rm -rf $TMPDIR

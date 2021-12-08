@@ -13,9 +13,9 @@ KEYDIR=/usr/share/keyrings
 
 pushd $TMPDIR
 echo "$SHA256 $DEB" > sha256.txt
-wget https://github.com/mechatrax-kiyonaga/mechatrax-kiyonaga.github.io/tree/devel/pool/main/m/mechatrax-archive-keyring/$DEB
+wget https://github.com/mechatrax-kiyonaga/mechatrax-kiyonaga.github.io/blob/devel/pool/main/m/mechatrax-archive-keyring/$DEB
 #sha256sum -c sha256.txt
-wget https://github.com/mechatrax-kiyonaga/mechatrax-kiyonaga.github.io/tree/devel/kiyonaga.gpg.key
+wget https://github.com/mechatrax-kiyonaga/mechatrax-kiyonaga.github.io/blob/devel/kiyonaga.gpg.key
 gpg --no-default-keyring --keyring ./$KEY --import ./kiyonaga.gpg.key
 cp $KEY $KEYDIR
 dpkg -i $DEB

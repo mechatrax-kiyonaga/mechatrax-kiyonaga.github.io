@@ -16,7 +16,7 @@ echo "$SHA256 $DEB" > sha256.txt
 wget http://mechatrax-kiyonaga.github.io/pool/main/m/mechatrax-archive-keyring/$DEB
 #sha256sum -c sha256.txt
 wget https://mechatrax-kiyonaga.github.io/kiyonaga.gpg.key
-gpg --no-default-keyring --keyring $KEY --import ./kiyonaga.gpg.key
+gpg --no-default-keyring --keyring ./$KEY --import ./kiyonaga.gpg.key
 cp ./$KEY $KEYDIR
 dpkg -i $DEB
 popd

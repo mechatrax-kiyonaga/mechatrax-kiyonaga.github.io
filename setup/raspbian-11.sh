@@ -2,7 +2,7 @@
 
 set -eu
 
-REPO=http://mechatrax-kiyonaga.github.io/tree/devel
+REPO=https://github.com/mechatrax-kiyonaga/mechatrax-kiyonaga.github.io/blob/devel
 DIST=bullseye
 DEB=mechatrax-archive-keyring_2016.12.19.3_all.deb
 #SHA256=de828a5a50bd53369830d603f18f777e5fcbcd0830b1f714982a0da53ebbc6e6
@@ -13,9 +13,9 @@ KEYDIR=/usr/share/keyrings
 
 pushd $TMPDIR
 echo "$SHA256 $DEB" > sha256.txt
-wget http://mechatrax-kiyonaga.github.io/tree/devel/pool/main/m/mechatrax-archive-keyring/$DEB
+wget https://github.com/mechatrax-kiyonaga/mechatrax-kiyonaga.github.io/tree/devel/pool/main/m/mechatrax-archive-keyring/$DEB
 #sha256sum -c sha256.txt
-wget https://mechatrax-kiyonaga.github.io/tree/devel/kiyonaga.gpg.key
+wget https://github.com/mechatrax-kiyonaga/mechatrax-kiyonaga.github.io/tree/devel/kiyonaga.gpg.key
 gpg --no-default-keyring --keyring ./$KEY --import ./kiyonaga.gpg.key
 cp $KEY $KEYDIR
 dpkg -i $DEB

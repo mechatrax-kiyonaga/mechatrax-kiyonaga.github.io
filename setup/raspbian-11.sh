@@ -10,12 +10,13 @@ SHA256=d7aa68b15ae62e6aaf48064ddc8732bfb8dcae10e8a077686a7803f6cb952120
 TMPDIR=$(mktemp -d /tmp/io.github.mechatrax.raspbian.${DIST}.setup.XXXXXXX)
 KEY=test-archive.gpg
 KEYDIR=/usr/share/keyrings
+
 pushd $TMPDIR
 echo "$SHA256 $DEB" > sha256.txt
 wget http://mechatrax-kiyonaga.github.io/pool/main/m/mechatrax-archive-keyring/$DEB
 #sha256sum -c sha256.txt
 wget https://mechatrax-kiyonaga.github.io/kiyonaga.gpg.key
-gpg --no-default-keyring --keyring ./kiyonaga.gpg.key --import $KEY
+gpg --no-default-keyring --keyring $KEY --import ./kiyonaga.gpg.key
 cp ./$KEY $KEYDIR
 dpkg -i $DEB
 popd

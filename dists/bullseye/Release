@@ -1,16 +1,16 @@
 Origin: kiyonaga
 Label: Raspbian-bullseye
 Codename: bullseye
-Date: Fri, 10 Dec 2021 09:09:00 UTC
+Date: Fri, 10 Dec 2021 09:18:41 UTC
 Architectures: armhf
 Components: main contrib non-free
 Description: test
 MD5Sum:
- 15ee85c9159033f1c7f523230dc71c29 10192 main/binary-armhf/Packages
- f6b04f04942b34e7fafb7efdcebf82ef 3043 main/binary-armhf/Packages.gz
+ 17d81a1499daa50ab2344af13de8f627 10192 main/binary-armhf/Packages
+ 443612032ba7ba95858a1e687401bb60 3043 main/binary-armhf/Packages.gz
  78c228583d7491f9b1650b6aa2842c0c 96 main/binary-armhf/Release
- d5fa31a06a12a64dc8d241d8d4347c29 13603 main/source/Sources
- 352a7b7c3b3b416e3c2173ea464065ee 3618 main/source/Sources.gz
+ a94d29be7a6e15e0f5de191d218cfb77 13603 main/source/Sources
+ 1d38b67e1b6b5ecb66102de11dfeb53a 3619 main/source/Sources.gz
  2a03c317c554ffccb0a8c45d91898df9 97 main/source/Release
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
@@ -25,11 +25,11 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
  436b41c7d8333ded6e26f8b676b3738e 101 non-free/source/Release
 SHA1:
- d64b5304270c8b7b3a2ff77dcbe1e481dfe9e679 10192 main/binary-armhf/Packages
- 852219406f3d086f3b5ecec87ea4dc74b0d2b3d7 3043 main/binary-armhf/Packages.gz
+ f91c35858d6aeb003686f86d1db12752d317fd78 10192 main/binary-armhf/Packages
+ 9ec19841a3456b43e73903a2571540338df20ca7 3043 main/binary-armhf/Packages.gz
  795d1a335082044294da8993a1ad64dd33746b1a 96 main/binary-armhf/Release
- 322c69e2111f5b73c830a78e3a0ba330a5e27d39 13603 main/source/Sources
- 2810dbd26a4686e297ee52d4a207f584d65f428b 3618 main/source/Sources.gz
+ e901ca0bc2b9d7e305c6af89129362307511c7bd 13603 main/source/Sources
+ c02ee7d8b5cae556bd3b350b62697bf20732dd82 3619 main/source/Sources.gz
  6bf2b3f51f13e2ac59d18a05772efef70c5ad800 97 main/source/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
@@ -44,11 +44,11 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
  c50c5caa190970446c7696163d85514017e7351f 101 non-free/source/Release
 SHA256:
- 4dfe6e915bead03d598af031431eff322f20a57e8d160e9ad5604e9c3cdbe18e 10192 main/binary-armhf/Packages
- f577778ab577ec686bf0e3da1e0c52c12ab2af77b35f0683d5ce2e6510fc70b2 3043 main/binary-armhf/Packages.gz
+ cfdbdc0ecefb51c4bb291d277882c42b6d338d9e6d4e0aa50bc31c7120a2d336 10192 main/binary-armhf/Packages
+ c6a19444637cf41bf0fab46169d68460bdebb6c348c53f1d4cc783a0b0bcee07 3043 main/binary-armhf/Packages.gz
  e4e9d7e337fd5807b1ee6e23f06d4142ff4be6992039f2394a326666e08aefed 96 main/binary-armhf/Release
- 7189d1070d83069027c608ca647725a749c01df6e3adedbedcfc0ff62726c205 13603 main/source/Sources
- 6b9da1b02d42afd19e4f8a621317366f6cac6b354694d22b004f5b7422356da6 3618 main/source/Sources.gz
+ f70f54c7ea6e45d3d5864523301f0e50309ff36dd687cb15a5e2afacd5bb3a3b 13603 main/source/Sources
+ 7302229dea16b4fb48423e5e9e2914dea8417b389fc75e2fea35bd153c3bde79 3619 main/source/Sources.gz
  e183a386202d0f8c9dcadeae5d4f4861680550d59aa9364ecad3073fd0eb678a 97 main/source/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz

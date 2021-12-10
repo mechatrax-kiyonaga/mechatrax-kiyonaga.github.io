@@ -254,10 +254,10 @@ Homepage: https://mechatrax.com/
 Priority: optional
 Section: misc
 Filename: pool/main/s/sleepi3-monitor/sleepi3-monitor_1.4.0_all.deb
-Size: 6120
-SHA256: 6bacc93aa24bfa577500a73111dee6d7b8d25de3b2823d5e255abf1e37ad4073
-SHA1: 7a4ca491f5e9d66618a5346d2b7a7db65dc3c235
-MD5sum: a4b3bb94595b68e79f10a3c6ee3fb4f4
+Size: 5920
+SHA256: 588611dc928b93750286f309bbcf2ff9be068b169ea0cee0681644fa7f8ec953
+SHA1: 1853ab9100607ac6f13bc25afe681b2f42a9d96e
+MD5sum: 766db6a2d48fd92cac3ae9c96bdf100c
 Description: Monitoring daemon for slee-Pi 3
  This package contains the daemon to monitor slee-Pi 3.
 

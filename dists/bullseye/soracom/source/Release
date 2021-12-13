@@ -1,5 +1,5 @@
-Component: contrib
+Component: soracom
 Origin: kiyonaga
 Label: Raspbian-bullseye
-Architecture: armhf
+Architecture: source
 Description: test

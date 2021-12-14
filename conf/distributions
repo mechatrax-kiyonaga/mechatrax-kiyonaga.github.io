@@ -2,7 +2,7 @@ Origin: kiyonaga
 Label: Raspbian-buster
 Codename: buster
 Architectures: armhf source
-Components: main contrib non-free soracom
+Components: main contrib non-free
 Description: test
 SignWith: B333C7F86C209DD60FBAA45497597910C7DC99C8
 

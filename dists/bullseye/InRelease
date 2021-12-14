@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: kiyonaga
 Label: Raspbian-bullseye
 Codename: bullseye
-Date: Tue, 14 Dec 2021 07:53:41 UTC
+Date: Tue, 14 Dec 2021 08:45:14 UTC
 Architectures: armhf
 Components: main contrib non-free soracom
 Description: test
@@ -85,12 +85,12 @@ SHA256:
  c13e4ed83750e07550b8c04c441ade7d766322f7987db9c88dbefe5bd1389d90 100 soracom/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEszPH+GwgndYPuqRUl1l5EMfcmcgFAmG4TYYACgkQl1l5EMfc
-mcg3GAf+PncZb9mc+LFcZilPltsZh84/KrkrdalFq4hd12Mpxubid2upkDJdCtnq
-RBxxVxpWLTHMBSyrJJWCtcCsRfqkLb4UFFLMaC1XAvIn4rcl7mdEn/sM0tyaBrTL
-3zRn2Mo0oLS4M5XwsoYW4gLKMtHU4g5LPEDox5d18oZxC3NXdLtfUjZNyMk5sSX2
-etvk5s97E5n9Q1D2x3A3/w+tUNa5HG5yw5PAxjLkDkiHMe63MA2gsfQfDEmJgI0p
-Ho7rSyDXAtt0D9yvEkgkwksPTn3t/hsxugf8XE7RZQ+yRz0xbZWjg1fSeb0gCTxd
-O2yy9XIO9XlsVQOKMhrhF2zuiPcliQ==
-=rZak
+iQEzBAEBCgAdFiEEszPH+GwgndYPuqRUl1l5EMfcmcgFAmG4WZoACgkQl1l5EMfc
+mcg4eQf9E4q7dDxsAExz2hKMIwsFHOwaDdrkqx1yVAWhgLsLpXyltYn4HQ2C13C4
+jXWrNoexgWOd8bHK3Dg7ucHP8K7pvgf49zkw4tLM1lIWpiLRZasdVS/ncgNd3Xkw
+mdla2J/2JQyM0VBQCEW+cZbHKWv6YBCCk3IzcqlwY/7+YAwicutxYXTb+YIvK5lA
+KQAb4glFJNu21DifsXuYFnoDOFL08L1YSb2alAvr+YXphXpBmsideO6Rp5j0QWaM
+EWg234ZuwR4jzbcqNJ/u3KaLM+ErufXUMXogMAPhki+sJymHhjTTN7kvjyOI+dxL
+FVIYGZk7LaH9Jd6sixey5AUQHti48g==
+=1sE9
 -----END PGP SIGNATURE-----

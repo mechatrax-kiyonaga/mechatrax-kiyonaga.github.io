@@ -1,0 +1,5 @@
+Component: soracom
+Origin: kiyonaga
+Label: Raspbian-buster
+Architecture: source
+Description: test

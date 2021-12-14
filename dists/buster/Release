@@ -1,0 +1,82 @@
+Origin: kiyonaga
+Label: Raspbian-buster
+Codename: buster
+Date: Tue, 14 Dec 2021 01:15:20 UTC
+Architectures: armhf
+Components: main contrib non-free soracom
+Description: test
+MD5Sum:
+ f50e96040549cd99958da3242ba54d3b 1752 main/binary-armhf/Packages
+ eea51c780ab566bc768904cad6cb7263 708 main/binary-armhf/Packages.gz
+ 8a8ae3d775413e66325a5b6027b49f1a 94 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 67f35cdf028c6ab734b9c8d9253b0aaf 95 main/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
+ b159cbb5ced69e4a1378e2500cf09009 97 contrib/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
+ aa86c1571bbb9a6d11580cd859c99cb7 98 contrib/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-armhf/Packages.gz
+ cfcaebf3553cc93ff2ed5f4b5756c4e7 98 non-free/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
+ d05af1622bc318a749ef1f341946f97e 99 non-free/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 soracom/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 soracom/binary-armhf/Packages.gz
+ 73d1d519d0fd72a2352b5fb6a129ddb3 97 soracom/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 soracom/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 soracom/source/Sources.gz
+ be65bae9a205ae8b49530167aa69113a 98 soracom/source/Release
+SHA1:
+ 232b3f6594c85f1fd8ec6253a2d96c3e1dca1628 1752 main/binary-armhf/Packages
+ 664b9967f81e71d534c3e7ce8d63fb36753ce39b 708 main/binary-armhf/Packages.gz
+ 764846bb37e2baa8989535bc129e5d243ef37571 94 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ ff8e7d2488b72b8c970d7077e160e224d0b0c069 95 main/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
+ 9a275f5a1de4375238239414968a639498e2439f 97 contrib/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
+ 28e9a5a025e6c050f3d8fa01bd8ea814acba46fd 98 contrib/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-armhf/Packages.gz
+ 19f0ca162968739345517022948672c3ef1f0d34 98 non-free/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
+ 5db1afaab6f1d6f1bc0a69b3bba656cf6cdf80b8 99 non-free/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 soracom/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 soracom/binary-armhf/Packages.gz
+ 29b5c16bd939055780400bf084b8d2cb76eb7c9d 97 soracom/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 soracom/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 soracom/source/Sources.gz
+ d437e7494232b1b06a8f69e63d4b3d996253189d 98 soracom/source/Release
+SHA256:
+ eecad6cdaa88964aac72eba3ce20e254a650c8281f4219ca27256e878940c95a 1752 main/binary-armhf/Packages
+ 5fb16ff9caf6ebaed5aa16a5bbae739ed5e83e8f5b8d7514687e6c6439129069 708 main/binary-armhf/Packages.gz
+ b30e537df814a59be062a67cbfe08629f4cdc41811e7c622a64411168ca60d39 94 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 69a565fcf9915bf10e7ba3e7c43115be9f62664c98aaadac4f5ffed2c4536043 95 main/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
+ e83f4073d2ae731ad86e2d945cef92e492f6f959b99fa9e5011a7120dd7d1ef5 97 contrib/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
+ c4cee4bbc78ba36a33a1898ad6d5ab2684f7c34d1407c0f7c7d7a6f4eb6888cc 98 contrib/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-armhf/Packages.gz
+ 456955255bceea20ad0a81201a623383b85934fea8d808991fc4c235d725ea81 98 non-free/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/source/Sources.gz
+ aaf04d1fcd23df728596be49777149b1988ef5e43519de80cb18e198ea4c5896 99 non-free/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 soracom/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 soracom/binary-armhf/Packages.gz
+ 274f8a20835da8de14351c591e7d3b26073d1b60fb5b2e51f47bd9108f45f2a5 97 soracom/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 soracom/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 soracom/source/Sources.gz
+ a14d6ae3071173b46ce0e3bb3831b40b22af635297c13acc055dfa7027021e76 98 soracom/source/Release

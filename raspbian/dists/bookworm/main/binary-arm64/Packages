@@ -126,6 +126,43 @@ MD5sum: d320645c3a86b18d549e5e7e4fc0260b
 Description: Backend of adpi-utils to control ADPi with SPI
  This package contains backend files of adpi-utils to control ADPi with SPI.
 
+Package: linux-headers-rpi-dummy
+Source: linux-rpi-dummy
+Version: 0~mtx
+Architecture: arm64
+Maintainer: Yuta Kiyonaga <kiyonaga@mechatrax.com>
+Installed-Size: 9
+Depends: linux-headers-rpi-v8, linux-headers-rpi-2712
+Homepage: https://mechatrax.com/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-rpi-dummy/linux-headers-rpi-dummy_0~mtx_arm64.deb
+Size: 1968
+SHA256: 231b3190b75c46dd51239b91d6fe80191bc2de80d43e256395b6acee47fd3e4f
+SHA1: 8e27524ea6839802863b91cedf38c44aba5bda56
+MD5sum: 5f3b02af642fa0d496ebb5b93254d1ef
+Description: transitional dummy package
+ This is a transitional dummy package for Raspberry Pi kernel headers.
+
+Package: linux-image-rpi-dummy
+Source: linux-rpi-dummy
+Version: 0~mtx
+Architecture: arm64
+Maintainer: Yuta Kiyonaga <kiyonaga@mechatrax.com>
+Installed-Size: 9
+Pre-Depends: raspi-firmware-dummy
+Depends: linux-image-rpi-v8, linux-image-rpi-2712
+Homepage: https://mechatrax.com/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-rpi-dummy/linux-image-rpi-dummy_0~mtx_arm64.deb
+Size: 1984
+SHA256: 715ce25f79ba9b691e8060d222eb4654ee0bf962f5a821b310005cb060ebf0ee
+SHA1: 0fda29180f029d600924163cf9187967305238a8
+MD5sum: 7ceb4de51e170c2ed78b36ee482bb0a4
+Description: transitional dummy package
+ This is a transitional dummy package for Raspberry Pi kernel.
+
 Package: mechatrax-archive-keyring
 Version: 2023.06.01
 Architecture: all
@@ -184,21 +221,38 @@ Description: Python 3 module for slee-Pi family.
  .
  This package installs the library for Python 3.
 
+Package: raspi-firmware-dummy
+Version: 0~mtx
+Architecture: all
+Maintainer: Yuta Kiyonaga <kiyonaga@mechatrax.com>
+Installed-Size: 11
+Multi-Arch: foreign
+Homepage: https://mechatrax.com/
+Priority: optional
+Section: misc
+Filename: pool/main/r/raspi-firmware-dummy/raspi-firmware-dummy_0~mtx_all.deb
+Size: 2444
+SHA256: d7366651ce4089694523b1b7941df92936c74ee4934fc447c7faeb4424ecd046
+SHA1: f0d67a31ccc1bf81eab7d1b69e193e6ebbb3a3e7
+MD5sum: 2048016092ed71aeaaf12f9f88c4750c
+Description: transitional dummy package
+ This is a transitional dummy package for Raspberry Pi firmware.
+
 Package: sleepi3-firmware
-Version: 1.0.1.2
+Version: 2.0.0
 Architecture: arm64
 Maintainer: Yuta Kiyonaga <kiyonaga@mechatrax.com>
-Installed-Size: 17
-Depends: libraspberrypi-bin (>= 1.20160506-1), raspberrypi-bootloader (>= 1.20160506-1), raspi-config (>= 20160506)
-Conflicts: sleepi-firmware, sleepi2-firmware
+Installed-Size: 18
+Depends: raspi-config (>= 20160506), raspi-firmware, linux-image-rpi-dummy | linux-image-rpi-v8 | linux-image-rpi-2712, linux-headers-rpi-dummy | linux-headers-rpi-v8 | linux-headers-rpi-2712
+Conflicts: raspberrypi-bootloader, sleepi-firmware, sleepi2-firmware
 Homepage: https://mechatrax.com/
 Priority: optional
 Section: kernel
-Filename: pool/main/s/sleepi3-firmware/sleepi3-firmware_1.0.1.2_arm64.deb
-Size: 3628
-SHA256: f513bcdbec68342dbfa6e28f2780fa42f71386ee9425109d146a18ddea8e1c78
-SHA1: e07353fc2096e78f7bcca87fedaffaf524e2b90e
-MD5sum: 2879d35dc6f21a9eae10cf73befa8a0a
+Filename: pool/main/s/sleepi3-firmware/sleepi3-firmware_2.0.0_arm64.deb
+Size: 3740
+SHA256: e065e7368c9c3dfa67380096b5dc3529b8f989687e039ef9bb8c450f97a4b7f2
+SHA1: 96fb74f240a09a5a4f4ee52b2da9b4e63a558cd8
+MD5sum: 26c9a126898d9a3fde25fffda69c1ad1
 Description: Device tree overlay binary for slee-Pi 3
  This package contains the device tree overlay binary for slee-Pi 3.
 
